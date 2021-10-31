@@ -1,0 +1,8 @@
+section .massage {
+  background-color: rgb(33, 151, 102);
+  color: white;
+  border-radius: 15px;
+  padding: 20px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  box-shadow: 0 0 10px black;
+}
